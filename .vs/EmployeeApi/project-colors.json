@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a3e3ce57-8729-4f25-ac98-2f7d5d063cf2": {
+      "ProjectGuid": "a3e3ce57-8729-4f25-ac98-2f7d5d063cf2",
+      "DisplayName": "EmployeeApi",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
